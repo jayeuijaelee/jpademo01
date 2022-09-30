@@ -23,6 +23,9 @@ public class Person {
     private LocalDateTime created_at;
     @Column(name = "created_by")
     private String created_by;
+    
+    
+    //ㅇㅇㅇㅇㅇㅇ
 
 
 }
